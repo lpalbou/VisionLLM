@@ -105,4 +105,8 @@ This project is inspired by [VoiceLLM](https://github.com/lpalbou/VoiceLLM) and 
 
 ## Author
 
-Laurent-Philippe Albou (24249870+lpalbou@users.noreply.github.com) 
+Laurent-Philippe Albou (24249870+lpalbou@users.noreply.github.com)
+
+## Version
+
+Current version: 0.1.1 

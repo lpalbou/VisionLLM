@@ -5,7 +5,7 @@ This library provides text-to-image, image-to-image, text-to-video, and image-to
 capabilities designed to work as adapters with convenience functions.
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from .vision_manager import VisionManager
 
